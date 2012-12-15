@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="first_words">
+        <item>Ungrateful</item>
+        <item>Grateful</item>
+        
+        <item>Plastic</item>
+        <item>Steel</item>
+        <item>Tin</item>
+        <item>Velvet</item>
+        <item>Iron</item>
+        <item>Vinyl</item>
+        <item>Wooden</item>
+        <item>Stone</item>
+        <item>Granite</item>
+        <item>Rubber</item>
+        <item>Copper</item>
+        <item>Gold</item>
+        <item>Aluminum</item>
+        <item>Leather</item>
+        
+        <item>Stormy</item>
+        <item>Clear</item>
+        <item>Bright</item>
+        <item>Windy</item>
+        <item>Breezy</item>
+        <item>Drizzly</item>
+        <item>Gloomy</item>
+        <item>Cloudy</item>
+        <item>Blustery</item>
+        <item>Chilly</item>
+
+        <item>Hypothetical</item>
+        <item>Theoretical</item>
+        <item>Parenthetical</item>
+        <item>Inevitable</item>
+        <item>Accidental</item>
+        <item>Intentional</item>
+        <item>Deliberate</item>
+        <item>Likely</item>
+        <item>Unlikely</item>
+        <item>Possible</item>
+        <item>Impossible</item>
+        <item>Finite</item>
+        <item>Infinite</item>
+        <item>Enduring</item>
+        <item>Temporary</item>
+        <item>Permanent</item>
+        <item>Unexpected</item>
+        <item>Unplanned</item>
+        <item>Unforeseen</item>
+        <item>Anticipated</item>
+        <item>Imminent</item>
+        <item>Potential</item>
+        <item>Certain</item>
+        <item>Secret</item>
+        <item>Unnoticed</item>
+        <item>Conspicuous</item>
+
+        <item>Treacherous</item>
+        <item>Traitorous</item>
+        <item>Ill-Willed</item>
+        <item>Subversive</item>
+        <item>Disloyal</item>
+        <item>Unfaithful</item>
+        <item>Dishonest</item>
+        <item>Deceptive</item>
+        <item>Deniable</item>
+        <item>Shifty</item>
+
+        <item>Sincere</item>
+        <item>Faithful</item>
+        <item>Well-Meaning</item>
+        <item>Well-Intentioned</item>
+        <item>Dependable</item>
+        <item>Loyal</item>
+        <item>True</item>
+
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Orange</item>
+        <item>Purple</item>
+        <item>Silver</item>
+        <item>Gold</item>
+        <item>Scarlet</item>
+        <item>Crimson</item>
+
+
+        <item>Telekenetic</item>
+        <item>Telepathic</item>
+        <item>Homeopathic</item>
+        <item>Sadistic</item>
+        <item>Masochistic</item>
+
+        <item>Majestic</item>
+        <item>Glorious</item>
+        <item>Wonderful</item>
+        <item>Awesome</item>
+        <item>Stupendous</item>
+
+        <item>Abysmal</item>
+        <item>Tragic</item>
+        <item>Solemn</item>
+        <item>Terrible</item>
+        <item>Horrible</item>
+        <item>Dreadful</item>
+        <item>Horrendous</item>
+
+        <item>Boring</item>
+        <item>Riveting</item>
+        <item>Interesting</item>
+        <item>Mundane</item>
+        <item>Unique</item>
+        <item>Intriguing</item>
+        <item>Puzzling</item>
+
+        <item>Costly</item>
+        <item>Expensive</item>
+        <item>Pricey</item>
+        <item>Cheap</item>
+        <item>Inexpensive</item>
+        <item>Valuable</item>
+        <item>Invaluable</item>
+        <item>Big-Ticket</item>
+        <item>Extravagant</item>
+        <item>Lavish</item>
+        <item>Excessive</item>
+        <item>Moderate</item>
+        <item>Reasonable</item>
+        <item>Adequate</item>
+        <item>Bargain</item>
+        <item>Half-Price</item>
+        <item>Standard</item>
+        <item>Economical</item>
+
+        <item>Shiny</item>
+        <item>Sparkly</item>
+        <item>Transparent</item>
+        <item>Translucent</item>
+        <item>Shimmery</item>
+        <item>Dull</item>
+        <item>Rough</item>
+        <item>Sharp</item>
+        <item>Rippled</item>
+        <item>Torn</item>
+        <item>Ripped</item>
+        <item>Shredded</item>
+        <item>Mended</item>
+        <item>Restored</item>
+        <item>Restorative</item>
+
+        <item>Blazing</item>
+        <item>Flaming</item>
+        <item>Scorched</item>
+        <item>Crispy</item>
+        <item>Soggy</item>
+        <item>Empty</item>
+        <item>Frozen</item>
+        
+        <item>Harmonious</item>
+        <item>Symphonic</item>
+        <item>Cacaphonous</item>
+        <item>Angelic</item>
+
+        <item>Overdue</item>
+        <item>Delayed</item>
+        <item>Late</item>
+        <item>Early</item>
+        <item>Premature</item>
+        <item>Ancient</item>
+        <item>Antiquated</item>
+        <item>Fresh</item>
+        <item>New</item>
+        <item>Recent</item>
+        <item>Expedient</item>
+        <item>Accelerated</item>
+        <item>Timely</item>
+
+        <item>Near</item>
+        <item>Distant</item>
+
+        <item>Pristine</item>
+        <item>Damaged</item>
+        <item>Mint</item>
+        <item>Perfect</item>
+        <item>Immaculate</item>
+        <item>Broken</item>
+        <item>Impaired</item>
+        <item>Flawed</item>
+
+        <item>Skilled</item>
+        <item>Unskilled</item>
+        <item>Lazy</item>
+        <item>Diligent</item>
+        <item>Competent</item>
+        <item>Incompetent</item>
+
+        <item>Big</item>
+        <item>Giant</item>
+        <item>Enormous</item>
+        <item>Average</item>
+        <item>Tiny</item>
+        <item>Itty-Bitty</item>
+        <item>Diminutive</item>
+
+        <item>Favorite</item>
+        <item>Shunned</item>
+        <item>Best</item>
+        <item>Worst</item>
+        <item>Better</item>
+        <item>Worse</item>
+        <item>Improving</item>
+        <item>Declining</item>
+        
+        <item>December</item>
+        <item>November</item>
+        <item>February</item>
+        
+        <item>Falling</item>
+        <item>Floating</item>
+        
+        <item>Grateful</item>
+        <item>Ungrateful</item>
+    </string-array>
+    <string-array name="second_words">
+        <item>Sabotage</item>
+        <item>Treachery</item>
+        <item>Mutiny</item>
+        <item>Mischief</item>
+
+        <item>Assistance</item>
+        <item>Aide</item>
+        <item>Help</item>
+        <item>Cooperation</item>
+        <item>Collaboration</item>
+        <item>Comfort</item>
+        <item>Benefit</item>
+        <item>Boost</item>
+        <item>Service</item>
+
+        <item>Haystack</item>
+        <item>Needle</item>
+        <item>Pitchfork</item>
+        <item>Bucket</item>
+        <item>Mop</item>
+        <item>Rake</item>
+        <item>Broom</item>
+        <item>Shovel</item>
+
+        <item>Pinecone</item>
+        <item>Stone</item>
+        <item>Rock</item>
+        <item>Pebble</item>
+        <item>Stick</item>
+        <item>Twig</item>
+        <item>Leaf</item>
+        <item>Stump</item>
+        <item>Sappling</item>
+        <item>Boulder</item>
+
+        <item>Burrow</item>
+        <item>Nest</item>
+        <item>Den</item>
+
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Banana</item>
+        <item>Grape</item>
+        <item>Grapefruit</item>
+        <item>Kumquat</item>
+        <item>Kiwi</item>
+        <item>Strawberry</item>
+        <item>Raspberry</item>
+        <item>Pineapple</item>
+        <item>Peach</item>
+        <item>Plum</item>
+        <item>Pluot</item>
+
+        <item>Planet</item>
+        <item>Moon</item>
+        <item>Comet</item>
+        <item>Satellite</item>
+        <item>Meteor</item>
+        <item>Meteorite</item>
+        <item>Star</item>
+        <item>Asteroid</item>
+
+        <item>Blizzard</item>
+        <item>Storm</item>
+        <item>Thunder</item>
+        <item>Rain</item>
+        <item>Sleet</item>
+        <item>Wind</item>
+        <item>Tornado</item>
+        <item>Hurricane</item>
+        <item>Mime</item>
+        <item>Clown</item>
+        <item>Assassain</item>
+        <item>Dentist</item>
+        <item>Programmer</item>
+        <item>Director</item>
+        <item>Actor</item>
+        <item>Reporter</item>
+        <item>Engineer</item>
+        <item>Conductor</item>
+        <item>Musician</item>
+        <item>Lawyer</item>
+        <item>Judge</item>
+        <item>Chef</item>
+        <item>Waiter</item>
+        <item>Photographer</item>
+        <item>Accountant</item>
+        <item>Stylist</item>
+        <item>Coach</item>
+        <item>Craftsman</item>
+        <item>Carpenter</item>
+
+        <item>Tuba</item>
+        <item>Saxophone</item>
+        <item>Kazoo</item>
+        <item>Drum</item>
+        <item>Piano</item>
+        <item>Flute</item>
+        <item>Picalo</item>
+        <item>Harp</item>
+        <item>Bassoon</item>
+
+        <item>Weasel</item>
+        <item>Rabbit</item>
+        <item>Squirrel</item>
+        <item>Bunny</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Wolf</item>
+        <item>Squid</item>
+        <item>Octopus</item>
+        <item>Tiger</item>
+        <item>Leopard</item>
+        <item>Antelope</item>
+        <item>Jackal</item>
+        <item>Gerbil</item>
+        <item>Hamster</item>
+        <item>Falcon</item>
+        <item>Eagle</item>
+        <item>Guppy</item>
+        <item>Toad</item>
+        <item>Salamander</item>
+        <item>Badger</item>
+		<item>Duck</item>
+		<item>Duckling</item>
+		<item>Pony</item>
+		<item>Camel</item>
+		<item>Spider</item>
+		
+        <item>Justice</item>
+        <item>Injustice</item>
+        <item>Prejudice</item>
+        <item>Freedom</item>
+        <item>Liberty</item>
+        <item>Enslavement</item>
+        <item>Servitude</item>
+        <item>Judgement</item>
+
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+
+        <item>Desk</item>
+        <item>Chair</item>
+        <item>Couch</item>
+        <item>Table</item>
+        <item>Nightstand</item>
+        <item>Vanity</item>
+        <item>Toilet</item>
+        <item>Sink</item>
+        <item>Oven</item>
+        <item>Dishwasher</item>
+        <item>Trashcan</item>
+        <item>Refrigerator</item>
+        <item>Freezer</item>
+
+        <item>Hammer</item>
+        <item>Screwdriver</item>
+        <item>Ruler</item>
+        <item>Saw</item>
+        <item>Drill</item>
+        <item>Level</item>
+        <item>Awl</item>
+        <item>Wrench</item>
+
+        <item>Desert</item>
+        <item>Ocean</item>
+        <item>Sea</item>
+        <item>Forest</item>
+        <item>City</item>
+        <item>Farm</item>
+        <item>Lake</item>
+        <item>Vista</item>
+        <item>Island</item>
+        <item>Coast</item>
+        <item>Continent</item>
+        <item>Beach</item>
+        <item>Valley</item>
+
+        <item>Button</item>
+        <item>Zipper</item>
+        <item>Snap</item>
+        <item>Lace</item>
+        <item>Velcro</item>
+        <item>Latch</item>
+
+        <item>Cake</item>
+        <item>Pudding</item>
+        <item>Pie</item>
+        <item>Strudle</item>
+        <item>Cookie</item>
+        <item>Torte</item>
+        <item>Eclair</item>
+
+        <item>Sailboat</item>
+        <item>Parachute</item>
+        <item>Submarine</item>
+        <item>Helicopter</item>
+
+        <item>Midnight</item>
+        <item>Dawn</item>
+        <item>Morning</item>
+        <item>Noon</item>
+        <item>Afternoon</item>
+        <item>Dusk</item>
+        <item>Twilight</item>
+        <item>Bedtime</item>
+
+        <item>Boot</item>
+        <item>Shoe</item>
+        <item>Sandal</item>
+        <item>Flip-Flop</item>
+        <item>Heel</item>
+
+        <item>Knuckle</item>
+        <item>Finger</item>
+        <item>Nose</item>
+        <item>Ear</item>
+        <item>Eye</item>
+        <item>Elbow</item>
+        <item>Shoulder</item>
+        
+        <item>Mustard</item>
+        <item>Ketchup</item>
+        <item>Relish</item>
+        <item>Horseradish</item>
+        <item>Mayo</item>
+        <item>Salt</item>
+        <item>Pepper</item>
+        <item>Vinegar</item>
+        
+        <item>Elf</item>
+        <item>Pixie</item>
+        <item>Fairy</item>
+        <item>Gnome</item>
+        <item>Troll</item>
+        <item>Sprite</item>
+        
+        <item>Spoon</item>
+        <item>Fork</item>
+        <item>Knife</item>
+        <item>Spork</item>
+        <item>Plate</item>
+        <item>Teacup</item>
+        <item>Napkin</item>
+        
+        <item>Whiskey</item>
+        <item>Bourbon</item>
+        <item>Tequila</item>
+        <item>Scotch</item>
+        <item>Vodka</item>
+        <item>Rum</item>
+        
+        <item>Cottonball</item>
+        <item>Swab</item>
+        <item>Band-Aid</item>
+        <item>Bandage</item>
+        <item>Suture</item>
+        
+        <item>Pencil</item>
+        <item>Pen</item>
+        <item>Stylus</item>
+        <item>Typewriter</item>
+        <item>Keyboard</item>
+        <item>Crayon</item>
+        <item>Marker</item>
+        
+        <item>Pistol</item>
+        <item>Rifle</item>
+        <item>Bazooka</item>
+        <item>Grenade</item>
+        <item>Bullet</item>
+        <item>Blade</item>
+        <item>Sword</item>
+        <item>Saber</item>
+        
+        <item>Bicycle</item>
+        <item>Pogo Stick</item>
+        <item>Jump Rope</item>
+        <item>Tricycle</item>
+        
+        <item>Hiccup</item>
+        <item>Burp</item>
+        <item>Cough</item>
+        <item>Sneeze</item>
+        <item>Sniffle</item>
+        
+        <item>Necklace</item>
+        <item>Bracelet</item>
+        <item>Locket</item>
+        <item>Pocket Watch</item>
+        <item>Earring</item>
+        <item>Crown</item>
+        
+        <item>Robe</item>
+        <item>Coat</item>
+        <item>Jacket</item>
+        <item>Sweater</item>
+        <item>Sweatshirt</item>
+        <item>Raincoat</item>
+        
+        <item>Candle</item>
+        <item>Lightbulb</item>
+        <item>Flashlight</item>
+        <item>Laser</item>
+        <item>Lantern</item>
+        <item>Lamp</item>
+    </string-array>
+</resources>

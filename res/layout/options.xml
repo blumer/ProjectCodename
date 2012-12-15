@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+	<RadioGroup 
+	    android:id="@+id/radioLabel"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:padding="20dip"
+	    >
+	    <RadioButton 
+	        android:id="@+id/radioProject"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="Project"
+	        android:checked="true"
+	        />
+	    <RadioButton 
+	        android:id="@+id/radioOperation"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="Operation"
+	        />
+	</RadioGroup>
+	<CheckBox 
+	    android:id="@+id/cbSound"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:text="Sound"
+	    />
+	<Button 
+	    android:id="@+id/btnSavePrefs"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:text="Save"/>
+</LinearLayout>
